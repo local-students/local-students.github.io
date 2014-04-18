@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "「釧路OSS札幌支部 第一回勉強会」に参加してきました #946oss札幌"
+date:   2014-04-19 00:32:00
+categories: 勉強会
+---
+
+こんばんは。mktakuya（むこうひら）です。
+
+学生部メンバーの[mktakuya（むこうひら）](https://twitter.com/mktakuya/)と[かのん](https://twitter.com/_Can_on/)くんが、釧路OSS札幌支部の主催する「釧路OSS札幌支部 第一回勉強会」に参加してきたので報告です。
+
+第一回となる釧路OSS札幌支部の勉強会。  
+今回のテーマは、「html5やフリーソフトウェアでイラストを描いてみよう」でした。  
+各自、Inkscapeを使ってベジェ曲線を描いたりしていました。
+
+詳しくはmktakuya（むこうひら）の書いたブログ記事をご確認ください。  
+[http://mktakuya.hatenablog.jp/entry/2014/04/19/001602](http://mktakuya.hatenablog.jp/entry/2014/04/19/001602)
+
