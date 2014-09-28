@@ -2,4 +2,3 @@ name: LOCAL 学生部
 markdown: redcarpet
 pygments: true
 permalink: /blog/entry/:year/:month/:day
-

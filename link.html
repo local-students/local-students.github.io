@@ -6,5 +6,10 @@ title: Link - LOCAL-students
 <div id="home">
   <h1>Link</h1>
   <p>過去の活動記録へのリンク集（予定）</p>
+  {% for page in site.posts %}
+    <ul class="posts">
+      <li><span></span> &raquo; <a href="{{ page.url }}">{{ page.title }}</a></li>
+  </ul>
+  {% endfor %}
 </div>
 
