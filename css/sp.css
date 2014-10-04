@@ -16,7 +16,7 @@ body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: 9pt;
-  text-align: center;
+  /* text-align: center; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -57,7 +57,7 @@ a:visited { color: #a0a; }
 
 .site {
   font-size: 150%;
-  text-align: center;
+  /* text-align: center; */
   width: 100%;
   margin: 3em auto 2em;
   line-height: 1.5em;
