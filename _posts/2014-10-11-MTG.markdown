@@ -1,7 +1,7 @@
 ---  
 layout: post
-title:  ""
-date:   2014-10-04 01:25:00
+title:  "MTGの開催報告です"
+date:   2014-10-11 01:25:00
 categories: MTG
 ---
   
