@@ -3,9 +3,9 @@ layout: post
 title:  " MTGの開催報告です！"
 date:   2014-10-17 23:30:00
 categories: MTG
----
-
-こんばんは。arienkakkowara（がる）です。
+---  
+  
+こんばんは。arienkakkowara（がる）です。  
 いつものようにMTGの議事録の報告します！
 
 相変わらず箇条書きで見づらいかもしれませんがご了承下さい。
