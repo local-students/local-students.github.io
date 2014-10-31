@@ -24,9 +24,9 @@ categories: MTG
 
 ##1. 次回のイベントについて
 *  ペアプログラミング
- * ペアプロの題材
-  * エイト・クイーン問題(http://www004.upp.so-net.ne.jp/s_honma/chess/chess.htm)
-  * その他の課題はそれぞれ考えてくること【宿題】
+  * ペアプロの題材
+    * エイト・クイーン問題(http://www004.upp.so-net.ne.jp/s_honma/chess/chess.htm)
+    * その他の課題はそれぞれ考えてくること【宿題】
 *  開催時期
  * 12月23日(火)　天皇誕生日
   * あやしい：たいこーぼー
