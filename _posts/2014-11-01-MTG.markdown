@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  " MTG開催報告"
 date:   2014-11-01 1:00:00
