@@ -1,0 +1,38 @@
+---
+layout: page
+title: "第4回 LOCAL学生部総大会"
+categories: []
+tags: []
+status: publish
+type: page
+published: true
+meta:
+  _edit_last: '2'
+  _wp_page_template: default
+author:
+  login: maruko
+  email: maruko.takunobu@gmail.com
+  display_name: MARUKO Takunobu
+  first_name: Takunobu
+  last_name: MARUKO
+---
+## 第4回学生部総大会 開催します!
+LOCAL学生部は今年も“学生部総大会”を開催します。ITに興味を持っている学生のための勉強会です。
+
+今年は洞爺でペア・プログラミングを行います。(もちろん焼き肉もします！)
+みなさん是非ご参加ください！
+## 交通費支援制度のお知らせ
+遠方からの参加者のために、交通費支援制度を設けています。
+詳細は →こちら← をご覧ください。
+# イベント内容
+- 日時
+2012年10月6日 (土) 16:00 - 2012年10月8日 (月・祝) 10:00
+- 会場
+北海道立洞爺少年自然の家 ネイパル洞爺
+(虻田郡洞爺湖町岩屋15番地)
+- 参加費
+3,000円
+- 内容
+ペア・プログラミング、懇親会
+
+申し込みフォームは →[コチラ](https://docs.google.com/forms/d/1NHRjaYFkQtpPSBxwXGyx8OsKfUrJnRMNcfnGrvsbiPI/closedform#gid=0)←
