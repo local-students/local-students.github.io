@@ -34,9 +34,9 @@ categories: MTG
 
 2：次回のイベント(CPP(シーペアプロ))について
 * イベント計画に必要そうなもの
-  * 必要そうな準備(暫定) https://docs.google.com/document/d/1Ed8yxUct9bvPd42XbuPmEGjo4I5kll6rT5QmcwstVEE/edit
-  * Better C 講座(暫定) https://docs.google.com/spreadsheets/d/1Krq2opY3ftXNjG0kPMnOq3I72cZ6BXQsBIiKKUKuN84/edit#gid=0
-  * 時間割(暫定) https://docs.google.com/spreadsheets/d/1Y6xhRVFgDknXcTM0H6uuyIw7nVBjSpjpLy4tuvFRJH4/edit#gid=0
+    * 必要そうな準備(暫定) https://docs.google.com/document/d/1Ed8yxUct9bvPd42XbuPmEGjo4I5kll6rT5QmcwstVEE/edit
+    * Better C 講座(暫定) https://docs.google.com/spreadsheets/d/1Krq2opY3ftXNjG0kPMnOq3I72cZ6BXQsBIiKKUKuN84/edit#gid=0
+    * 時間割(暫定) https://docs.google.com/spreadsheets/d/1Y6xhRVFgDknXcTM0H6uuyIw7nVBjSpjpLy4tuvFRJH4/edit#gid=0
 * 役割分担
   * 司会進行→がる
   * ハンズオンする人→あるねこ
