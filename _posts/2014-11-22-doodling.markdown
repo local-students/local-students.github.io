@@ -25,6 +25,9 @@ categories: doodling
 ## ソースコード  
   
 -------------  
+  
+```python:hoge.py  
+  
 # -*- coding: utf-8 -*-  
   
 import datetime  
@@ -37,6 +40,7 @@ seed = time.mktime(today.utctimetuple())
 random.seed(seed)  
 print(dic.get(random.randint(1, len(dic))))  
   
+```
   
 -------------  
   
