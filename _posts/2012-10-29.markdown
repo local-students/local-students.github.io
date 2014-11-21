@@ -13,14 +13,14 @@ categories: localst2012
 ペアは6つに分かれ、FizzBuzz問題、「すごいHaskellたのしく学ぼう」の読み進め、データベース設計など各々の好きな分野について2日間の作業を行なっていました。
 また、ペア間でのコードレビューや、各大学の講義の情報交換、研究内容の紹介といった様子が伺えました。
 
-![flyer](/static/img/localst2012/8066417316_c3c899a7bd_c-300x199.jpeg)
+![flyer](/static/img/localSt2012/8066417316_c3c899a7bd_c-300x199.jpeg)
 
-![flyer](/static/img/localst2012/8066418221_e071bb298f_c-300x199.jpeg)
+![flyer](/static/img/localSt2012/8066418221_e071bb298f_c-300x199.jpeg)
 
 開発だけではなく、2日目の夜は焼き肉、風呂は洞爺湖温泉街へ赴くなど、洞爺湖ならではのものを堪能しました。
 
-![flyer](/static/img/localst2012/8066768530_70b8474db6_c.jpeg)
+![flyer](/static/img/localSt2012/8066768530_70b8474db6_c.jpeg)
 
 3日目の朝はそれぞれの成果報告が行なわれ、bit演算を駆使した○×ゲームや、敵キャラをも食尽すパックマンの経路探索など面白い発表があり、各成果物への鋭い突っ込みもでていました。
 
-![flyer](/static/img/localst2012/8066768530_70b8474db6_c-300x199.jpeg)
+![flyer](/static/img/localSt2012/8066768530_70b8474db6_c-300x199.jpeg)
