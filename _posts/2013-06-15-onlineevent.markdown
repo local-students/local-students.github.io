@@ -18,10 +18,10 @@ categories: onlineevent
  * 発表の場は [OSC 2013 Hokkaido](http://www.ospn.jp/osc2013-do/ )。世界に自分を発信する貴重な体験！
 
 ちなみに今、４つほどのグループが立ち上がっており、それぞれ以下のアプリの開発に取り組んでおります。  
-* Googleマップを用いてかくれんぼ  
-* Twitterのツイートをはてなダイアリーに記録  
-* DMMのAPIで遊ぶ  
-* Kinectの顔認識で雨男判定  
+ * Googleマップを用いてかくれんぼ  
+ * Twitterのツイートをはてなダイアリーに記録  
+ * DMMのAPIで遊ぶ  
+ * Kinectの顔認識で雨男判定  
 
 ## exercise
 
