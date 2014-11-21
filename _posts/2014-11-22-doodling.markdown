@@ -25,7 +25,7 @@ categories: doodling
 ## ソースコード  
   
 -------------  
-  
+
 ```python:hoge.py  
   
 # -*- coding: utf-8 -*-  
@@ -41,6 +41,7 @@ random.seed(seed)
 print(dic.get(random.randint(1, len(dic))))  
   
 ```
+
   
 -------------  
   
