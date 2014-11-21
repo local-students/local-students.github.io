@@ -1,20 +1,8 @@
 ---
-layout: page
+layout: post
 title: "第4回 LOCAL学生部総大会"
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta:
-  _edit_last: '2'
-  _wp_page_template: default
-author:
-  login: maruko
-  email: maruko.takunobu@gmail.com
-  display_name: MARUKO Takunobu
-  first_name: Takunobu
-  last_name: MARUKO
+date: 2012-09-06 22:22:30 -0700
+categories: localst2012
 ---
 ## 第4回学生部総大会 開催します!
 LOCAL学生部は今年も“学生部総大会”を開催します。ITに興味を持っている学生のための勉強会です。
