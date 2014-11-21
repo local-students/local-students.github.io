@@ -1,7 +1,5 @@
 name: LOCAL 学生部
 markdown: redcarpet
-edcarpet:
-  extensions: [tables]
 pygments: true
 permalink: /blog/entry/:year/:month/:day
 
