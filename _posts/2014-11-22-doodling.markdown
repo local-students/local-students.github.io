@@ -1,58 +1,59 @@
 ---
 layout: post
 title:  "週1で何かを書かくぞ！企画"
-date:   2014-11-21 20:53:00
+date:   2014-11-22 00:42:00
 categories: doodling
 ---
-
-こんばんは。arienkakkowara（がる）です。
-今回はLOCAL学生部の新たな試みとして「週1でなにか書いてみよう」という企画を始めます！
-
-## なんでやるの？
-
-学生たちが何を考えているか、何を作ったかを公開する場を用意しよう！
-というシンプルな理由です！
-
-~~とは言っても提案してから1ヶ月ほど経過していますが…~~
-
-ということで初回は自分がトップバッターで何か書こうと思います！
-
-## この企画の担当を決めるプログラム
-
-最初なのでこの企画をどの順番で書くか決めるプログラムを作ったことを紹介します！
-
-
-## ソースコード
-
--------------
-# -*- coding: utf-8 -*-
-
-import datetime
-import time
-import random
-
-dic = {1:"garu", 2:"mk", 3:"canon", 4:"taikoubou", 5:"senz", 6:"aruneko", 7:"uhhyoi", 8:"rekz"}
-today = datetime.datetime.now()
-seed = time.mktime(today.utctimetuple())
-random.seed(seed)
-print(dic.get(random.randint(1, len(dic))))
-
-
--------------
-
-ざっくりと解説すると
-
-+ dictionary作る
-+ 今日の日付取得
-+ 今日の時刻からseed値の設定
-+ dictionaryからランダムにデータ取得
-+ 取得された人が担当ですおめでとうございます！
-
-という流れです！
-
-
-ちょっと雑にしすぎましたが、
-このくらいのほうが次に書く人の気分も楽になるんじゃないでしょうかね？
-
-
-今回はこのぐらいで失礼しますー。
+  
+こんばんは。arienkakkowara（がる）です。  
+今回はLOCAL学生部の新たな試みとして「週1でなにか書いてみよう」という企画を始めます！  
+  
+## なんでやるの？  
+  
+学生たちが何を考えているか、何を作ったかを公開する場を用意しよう！  
+というシンプルな理由です！  
+  
+~~とは言っても提案してから1ヶ月ほど経過していますが…~~  
+  
+ということで初回は自分がトップバッターで何か書こうと思います！  
+  
+## この企画の担当を決めるプログラム  
+  
+最初なのでこの企画をどの順番で書くか決めるプログラムを作ったことを紹介します！  
+  
+  
+## ソースコード  
+  
+-------------  
+# -*- coding: utf-8 -*-  
+  
+import datetime  
+import time  
+import random  
+  
+dic = {1:"garu", 2:"mk", 3:"canon", 4:"taikoubou", 5:"senz", 6:"aruneko", 7:"uhhyoi", 8:"rekz"}  
+today = datetime.datetime.now()  
+seed = time.mktime(today.utctimetuple())  
+random.seed(seed)  
+print(dic.get(random.randint(1, len(dic))))  
+  
+  
+-------------  
+  
+ざっくりと解説すると  
+  
++ dictionary作る  
++ 今日の日付取得  
++ 今日の時刻からseed値の設定  
++ dictionaryからランダムにデータ取得  
++ 取得された人が担当ですおめでとうございます！  
+  
+という流れです！  
+  
+  
+ちょっと雑にしすぎましたが、  
+このくらいのほうが次に書く人の気分も楽になるんじゃないでしょうかね？  
+  
+  
+今回はこのぐらいで失礼しますー。  
+  
