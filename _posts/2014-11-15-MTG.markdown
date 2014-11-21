@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "明日もMTG開催報告"
-date:   2014-11-21 20:53:00
+date:   2014-11-15 20:53:00
 categories: MTG
 ---
 
@@ -12,7 +12,7 @@ categories: MTG
 ますは前回の議事録です。
 相変わらず箇条書きで見づらいかもしれませんがご了承下さい。
 
-# 11/09 MTG 議事録
+# 11/15 MTG 議事録
 
   LOCAL学生部MTG
 
