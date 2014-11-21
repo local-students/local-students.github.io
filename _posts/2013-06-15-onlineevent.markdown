@@ -24,21 +24,6 @@ categories: onlineevent
  * DMMのAPIで遊ぶ
  * Kinectの顔認識で雨男判定
 
-
-## exercise
-
-左揃え | 中央揃え | 右揃え
-:----- | :------: | -----:
-1111   | 2222     | 3333 
-4444   | 5555     | 6666
-7777   | 8888     | 9999
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cel
-
 ## 今後の日程
  日時 | 内容 
 :--------------|:--------------------------------------:
