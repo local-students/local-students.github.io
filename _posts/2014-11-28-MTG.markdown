@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "MTGの報告です"
+date:   2014-11-29 12:05:00
+categories: MTG
+---
+
 #11/28 MTG 議事録
 
 LOCAL学生部MTG　　
