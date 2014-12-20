@@ -5,7 +5,7 @@ date:   2014-01-03 00:00:00
 categories: localst2014
 ---
 
-![image](/static/img/localSt2012/resized_img_0905.jpg)
+![image](/static/img/localSt2013/resized_img_0905.jpg)
 
 こんにちは。あけましておめでとうございます。
 今回新たにLOCAL学生部のメンバーとなったmktakuyaです。（上の写真は別の人です。）
@@ -15,15 +15,15 @@ categories: localst2014
 
 ##インフィニットループ会議室での開発の様子
 
-![image](/static/img/localSt2012/resized_img_0716.jpg)
+![image](/static/img/localSt2013/resized_img_0716.jpg)
 
 今回は、大テーマ「イベント支援系ツールの開発」に沿って、個人またはチームで開発をしました。
 
-![image](/static/img/localSt2012/resized_img_0879.jpg)
+![image](/static/img/localSt2013/resized_img_0879.jpg)
 
 各自、アンケートの回答をグラフにまとめるツールやイベントの様子を写真に撮りTwitterへ自動投稿してくれるbot、参加者と発表者の間で同期ができるLTタイマーなど様々なツールを開発していました。
 
-![image](/static/img/localSt2012/resized_img_0722.jpg)
+![image](/static/img/localSt2013/resized_img_0722.jpg)
 
 今回の総大会が初めてのプログラミングという参加者もおり、先輩が指導するというシーンもありました。
 
@@ -31,43 +31,43 @@ categories: localst2014
 
 1日目の夜、女将二代目 はなちゃんにて懇親会を行いました。
 
-![image](/static/img/localSt2012/resized_img_0755.jpg)
+![image](/static/img/localSt2013/resized_img_0755.jpg)
 
 参加者が集まり鍋を囲み、懇親を深め合いました。
 
-![image](/static/img/localSt2012/resized_img_0743.jpg)
+![image](/static/img/localSt2013/resized_img_0743.jpg)
 
-![image](/static/img/localSt2012/resized_img_0747.jpg)
+![image](/static/img/localSt2013/resized_img_0747.jpg)
 
 ##札幌ハウスユースホステルでの宿泊
 
 懇親会の後、札幌ハウスユースホステルでの宿泊をしました。
 
-![image](/static/img/localSt2012/BckpfzPCUAAkCwn.jpg)
+![image](/static/img/localSt2013/BckpfzPCUAAkCwn.jpg)
 
 寝る間を惜しんで開発を続ける人たちもいて、熱い夜になりました。
 
-![image](/static/img/localSt2012/resized_img_0870.jpg)
+![image](/static/img/localSt2013/resized_img_0870.jpg)
 
 ##成果発表会
 
-![image](/static/img/localSt2012/resized_img_1016.jpg)
+![image](/static/img/localSt2013/resized_img_1016.jpg)
 
 2日間の締めくくりに、インフィニットループ会議室にて成果発表会を行いました。
 
-![image](/static/img/localSt2012/resized_img_0992.jpg)
+![image](/static/img/localSt2013/resized_img_0992.jpg)
 
 LTタイマーのデモの様子です。
 
-![image](/static/img/localSt2012/resized_img_1036.jpg)
+![image](/static/img/localSt2013/resized_img_1036.jpg)
 
 こちらは写真投稿SNSのデモ。
 
-![image](/static/img/localSt2012/resized_img_1003.jpg)
+![image](/static/img/localSt2013/resized_img_1003.jpg)
 
 プログラミングが初めての参加者による成果発表の様子です。
 
-![image](/static/img/localSt2012/resized_img_1039.jpg)
+![image](/static/img/localSt2013/resized_img_1039.jpg)
 
 完成した人もいれば、あまり良い成果も出せなかった人もいましたが、それぞれ良い経験になったのではないでしょうか。
 
@@ -77,11 +77,11 @@ LTタイマーのデモの様子です。
 
 また、[書籍を起点とした学生とエンジニアの交流を図るための特別企画](http://tomio2480.hatenablog.com/entry/2014/01/03/145559)も行われました。
 
-![image](/static/img/localSt2012/resized_img_0987.jpg)
+![image](/static/img/localSt2013/resized_img_0987.jpg)
 
 技術力の溢れる大人の皆様からぜひ学生に学生に読ませたい書籍を選んでいただき、それを今回参加した学生にプレゼントし、さらなる技術力向上のきっかけにしよう、というステキな企画でした。
 
-![image](/static/img/localSt2012/resized_img_1060.jpg)
+![image](/static/img/localSt2013/resized_img_1060.jpg)
 
 書籍を手にした学生は、みんな喜んでいました。今頃読みふけっている頃かと思います。
 僕も丁度欲しかった『Make: Electronics ―作ってわかる電気と電子回路の基礎』を手に入れることができました。
@@ -96,7 +96,7 @@ LTタイマーのデモの様子です。
 
 それでは参加者の皆様、お疲れ様でした！
 
-![image](/static/img/localSt2012/resized_img_1073.jpg)
+![image](/static/img/localSt2013/resized_img_1073.jpg)
 
 以上、第5回LOCAL学生部の開催報告でした。
 
