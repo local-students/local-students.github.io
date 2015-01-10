@@ -1,7 +1,7 @@
 ---
 layout: post
-title:週一で何か書いてみよう企画
-date:2015-1-4 20:00:00
+title:  "週一で何か書いてみよう企画"
+date:   2015-1-4 20:00:00
 categories: doodling
 ---
 
