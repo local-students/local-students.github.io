@@ -5,10 +5,10 @@ date: 2015-02-28 23:39:14
 categories: MTG
 ---
 
-議題  ：2015/02/28
-日時  ：2015年02月28日  21:00 ～
-場所  ：Skype
-参加者：aruneko  canonxex  jprekz  raa0121  uhhyoi
+議題  ：2015/02/28  
+日時  ：2015年02月28日  21:00 ～  
+場所  ：Skype  
+参加者：aruneko  canonxex  jprekz  raa0121  uhhyoi  
 
 - LOCAL定例会の報告をした
 - BaaSについてまとめ、応募を開始した
