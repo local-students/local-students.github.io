@@ -17,9 +17,11 @@ categories:	baas
 # 開発の現場
 開発の際には最初みんなIQPというものに戸惑いを感じてましたが
 慣れてきたのかしばらくしたところでみんな開発を始めました。
+
 ![pic](/static/img/baas/develop_resize.jpg)
 
 後半はグループを組んで自由にやっている人達や積極的にIQP社の方々に質問しにいったりと和やかな雰囲気で開発を行いました。
+
 ![pic](/static/img/baas/develop_resize2.jpg)
 ![pic](/static/img/baas/develop_resize3.jpg)
 
@@ -38,6 +40,7 @@ categories:	baas
 ![pic](/static/img/baas/result_resize2.jpg)
 
 また、特別賞は室蘭工業大学の岸上先生の手から贈られました。
+
 ![pic](/static/img/baas/result_resize3.jpg)
 
 
