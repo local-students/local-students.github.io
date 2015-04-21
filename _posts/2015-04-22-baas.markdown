@@ -17,38 +17,38 @@ categories:	baas
 # 開発の現場
 開発の際には最初みんなIQPというものに戸惑いを感じてましたが
 慣れてきたのかしばらくしたところでみんな開発を始めました。
-![pic](../static/img/baas/develop_resize.jpg)
+![pic](/static/img/baas/develop_resize.jpg)
 
 後半はグループを組んで自由にやっている人達や積極的にIQP社の方々に質問しにいったりと和やかな雰囲気で開発を行いました。
-![pic](../static/img/baas/develop_resize2.jpg)
-![pic](../static/img/baas/develop_resize3.jpg)
+![pic](/static/img/baas/develop_resize2.jpg)
+![pic](/static/img/baas/develop_resize3.jpg)
 
 # 発表会の様子
 一日限定のハッカソンだったので。みんな完成をさせることができませんでしたがぞれぞれ方向性の違う面白いアプリを開発していました。
 
 
-![pic](../static/img/baas/presen_resize.jpg)
-![pic](../static/img/baas/presen_resize2.jpg)
-![pic](../static/img/baas/presen_resize3.jpg)
+![pic](/static/img/baas/presen_resize.jpg)
+![pic](/static/img/baas/presen_resize2.jpg)
+![pic](/static/img/baas/presen_resize3.jpg)
 
 # 表彰の様子
 発表会の後に表彰が行われました。表彰では1位、2位の人にはIQP社の社長さんであるガイさんの手からAmazonギフト券が贈られました。
 
-![pic](../static/img/baas/result_resize.jpg)
-![pic](../static/img/baas/result_resize2.jpg)
+![pic](/static/img/baas/result_resize.jpg)
+![pic](/static/img/baas/result_resize2.jpg)
 
 また、特別賞は室蘭工業大学の岸上先生の手から贈られました。
-![pic](../static/img/baas/result_resize3.jpg)
+![pic](/static/img/baas/result_resize3.jpg)
 
 
 # 打ち上げの様子
 打ち上げは石鍋亭で行いました！話が弾みとても面白かったです！
 
-![pic](../static/img/baas/uchiage_resize.jpg)
+![pic](/static/img/baas/uchiage_resize.jpg)
 
 石鍋亭名物ニラタワー
 
-![pic](../static/img/baas/nira_resize.jpg)
+![pic](/static/img/baas/nira_resize.jpg)
 
 # 最後に
 最後になりますが今回のBaasに参加いただいた方を始めたくさんの方々の協力があってイベントを開催することができました。今回参加いただいた方、そしてご協賛くださった方々、本当にありがとうございました！
