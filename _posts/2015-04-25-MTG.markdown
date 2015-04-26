@@ -9,11 +9,12 @@ categories: MTG
 
 LOCAL学生部MTG
 
-議題  ：2015/04/25
-日時  ：2015年04月25日  21:00 ～ 23:00
-場所  ：Skype
-参加者：homomaid  aruneko keisuke495500
+議題  ：2015/04/25  
+日時  ：2015年04月25日  21:00 ～ 23:00  
+場所  ：Skype  
+参加者：homomaid  aruneko keisuke495500  
 
+---
 
 - 印刷物の見積もりを待っていることを確認
 - OSCのシフトを少し決定した
