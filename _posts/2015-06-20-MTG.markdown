@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MTGの報告です"
-date:   2015-05-23 22:46:00
+date:   2015-06-20 22:46:00
 categories: MTG
 ---
 
