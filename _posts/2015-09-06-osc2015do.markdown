@@ -5,7 +5,7 @@ date:   2015-09-06 00:24:32
 categories: osc2015do
 ---
 
-![LOCAL学生部展示ブースの様子](画像のURL)
+![LOCAL学生部展示ブースの様子](/static/img/osc2015do/IMG_20150613_121645.jpg)
 
 学生部 佐藤です。
 
