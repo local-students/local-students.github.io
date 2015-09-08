@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "第7回 LOCAK学生部総大会 報告レポート"
 date:   2015-09-07 00:04:32
