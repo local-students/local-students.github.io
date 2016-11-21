@@ -9,7 +9,7 @@ categories: MTG
 LOCAL学生部は北海道を拠点に勉強会やハッカソンを企画・開催をする団体です！  
 学生部のメンバーは北海道各地の高専生や大学生で構成されています。  
 詳しくは、以下のURLを参照してください。  
-http://students.local.or.jp/
+[LOCAL学生部]{http://students.local.or.jp/}
 
 ##LOCAL学生部総大会とは
 LOCAL学生部が1年に1回主催する北海道を横断したIT勉強会のことです。  
