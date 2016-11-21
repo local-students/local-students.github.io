@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LOCAL学生部第7回総大会開催のお知らせ"
-date:   2016-11-21 12:00:00
+date:   2016-11-21 10:00:00
 categories: MTG
 ---
 
