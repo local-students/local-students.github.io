@@ -11,7 +11,7 @@ categories: MTG
 
 私達は2016/12/29,30の二日間、第8回LOCAL学生部総大会を開催しました。株式会社インフィニットループ様の会議室を借りて行い、札幌ハウスユースホステルに宿泊しました。  
 
-![総大会会場](/static/img/localst2016/localst2016_2.jpg =300x200)
+<img src=/static/img/localst2016/localst2016_2.jpg width=400px>
 
 ##内容
 
@@ -22,7 +22,7 @@ categories: MTG
 
 ##ハッカソン
 
-![開発中の様子](/static/img/localst2016/localst2016_1.jpg =300x200)  
+<img src=/static/img/localst2016/localst2016_1.jpg width=400px>  
 
 言語処理系自作にほぼ全員が苦戦し全員黙々と制作に打ち込みました。  
 
@@ -33,13 +33,13 @@ categories: MTG
 
 二日目の最後に開催された、LT大会では各々が開発した非常に「ヤバい言語」達が披露されました。  
 
-![LT大会1](/static/img/localst2016/localst2016_4.jpg =300x200)  
+<img src=/static/img/localst2016/localst2016_4.jpg width=400px>  
 
-![LT大会2](/static/img/localst2016/localst2016_6.jpg =300x200)  
+<img src=/static/img/localst2016/localst2016_6.jpg width=400px>   
 
-![LT大会3](/static/img/localst2016/localst2016_5.jpg =300x200)  
+<img src=/static/img/localst2016/localst2016_5.jpg width=400px>   
 
-![LT大会4](/static/img/localst2016/localst2016_3.jpg =300x200)
+<img src=/static/img/localst2016/localst2016_3.jpg width=400px> 
 
 ##まとめ
 
