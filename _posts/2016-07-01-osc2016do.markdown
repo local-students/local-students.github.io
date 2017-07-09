@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "オープンソースカンファレンス2016 Hokkaido 報告レポート"
+date:   2016-01-01 00:24:32
+categories: osc2016do
+---
+
+LOCAL学生部はOSC2016 Hokkaidoに出展し、紹介活動を行いました。また、公式レポートも担当しています。詳細なレポートは[公式レポート](https://www.ospn.jp/press/20160708osc2016-hokkaido-report.html)をご覧ください。
