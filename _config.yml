@@ -1,7 +1,7 @@
 name: LOCAL 学生部
-markdown: redcarpet
-redcarpet: 
-  extensions: ["tables"]
+markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 permalink: /blog/entry/:year/:month/:day
 
